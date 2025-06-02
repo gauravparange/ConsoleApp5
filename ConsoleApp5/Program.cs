@@ -1,19 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+
 Console.WriteLine("Hello, World!");
 
 
 
 
-//ReverseString();
+//PrimeNumber();
+//Factorial();
+//EvenOddNumber();
+//FibonicciSeries();
 //IsPalindrome();
+ReverseString();
 //ReverseWords();
 //ReverseEachWords();
 //CountCharacter();
 //RemoveDuplicate();
-//PrimeNumber();
-//EvenOddNumber();
-//FibonicciSeries();
-//Factorial();
 #region ReverseString
 static void ReverseString()
 {
